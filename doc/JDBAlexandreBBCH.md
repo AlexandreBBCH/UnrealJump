@@ -22,3 +22,6 @@ Bon on est libéré à 16h mais entre temps nous avons rajouter le jump pour not
 
 ## 02.11.2023
 On a continuer à ajouter des fonctionnalité au personnage, après avoit tenter de réparé le problème du jump qui ne se reinitialise pas. Donc maintenant Yoan a un perso qui peut en plus roulé et s'accroupir tandis que moi peine à rouler. Semaine pro je regle ça et on attaque le maping et les fonctionnalité je pense.
+
+## 09.11.2023
+Apprentissage de l'importation d'asset et reglage temporaire du jump, prochaine semaine essayer d'ajouter divers fonctionnalité de gameplay.

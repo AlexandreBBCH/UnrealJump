@@ -20,4 +20,9 @@ Mais lors de la pause, unreal a crash et j'ai perdu certaine choses. <br>
 J'ai du les refaires mais à la fin du saut, le personnage ne retombe plus sur le sol. <br>
 Je réglerais ca la semaine prochaine.
 
-## 02/11/2023
+## 02/11/2023 :
+Aujourd'hui, j'ai continué à suivre le tutoriel. Maintenant, n plus de ce baisser, mon personnage peut faire une roulade. <br>
+Nous avons décidé de temporairement ignorer le bug lorsque l'on retombe sur le sol et de le laisser pour plus tard.<br>
+Ensuite, j'ai commencé à apprendre à créer une map grâce à un tutoriel sur youtube (https://www.youtube.com/watch?v=rAVPEGnyatk)  (34:30 min)<br>
+J'ai notamment fait que lorsque le personnage tombe de la plateforme et touche le sol, il revient à la position de départ.
+La semaine prochaine, je vais continué ce tutoriel.

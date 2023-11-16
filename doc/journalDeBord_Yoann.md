@@ -31,3 +31,8 @@ La semaine prochaine, je vais continué ce tutoriel.
 Aujourd'hui, j'ai finit le tuto d'unreal engine. J'ai créer des plateformes en mouvement, crée une clé pour déverouiller une porte et ajouter des pièces.<br>
 Ensuite, j'ai commencer à faire des ajouts par moi même : j'ai fait une gemme (similaire au pièces) et j'ai fait en sorte qu'il faut avoir la clé et une gemme pour rentrer.<br>
 J'ai donc bien avancer aujourd'hui.
+
+## 16/11/2023
+Aujourd'hui, j'ai fait un projet à partir de rien. J'ai fait le personnage, ses déplacements, et son saut. Lorsqu'il tombe dans le vide, il réapparait au spawn.<br>
+Ensuite, j'ai fait une balle que l'on peut tirer pour toucher un but de foot.<br>
+Néanmoins, cela ne marche pas encore et je vais régler cela la semaine prochaine

@@ -26,3 +26,8 @@ Nous avons décidé de temporairement ignorer le bug lorsque l'on retombe sur le
 Ensuite, j'ai commencé à apprendre à créer une map grâce à un tutoriel sur youtube (https://www.youtube.com/watch?v=rAVPEGnyatk)  (34:30 min)<br>
 J'ai notamment fait que lorsque le personnage tombe de la plateforme et touche le sol, il revient à la position de départ.
 La semaine prochaine, je vais continué ce tutoriel.
+
+## 09/11/2023
+Aujourd'hui, j'ai finit le tuto d'unreal engine. J'ai créer des plateformes en mouvement, crée une clé pour déverouiller une porte et ajouter des pièces.<br>
+Ensuite, j'ai commencer à faire des ajouts par moi même : j'ai fait une gemme (similaire au pièces) et j'ai fait en sorte qu'il faut avoir la clé et une gemme pour rentrer.<br>
+J'ai donc bien avancer aujourd'hui.

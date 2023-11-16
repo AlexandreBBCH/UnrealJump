@@ -25,3 +25,6 @@ On a continuer à ajouter des fonctionnalité au personnage, après avoit tenter
 
 ## 09.11.2023
 Apprentissage de l'importation d'asset et reglage temporaire du jump, prochaine semaine essayer d'ajouter divers fonctionnalité de gameplay.
+
+## 16.11.2023
+On est passé a Unreal 5 et je m'occupe de comprendre les mesh et le systeme de collision précis ainsi que pour la semaine prochaine creer un premier level. Note : On compte faire un jeu multi online coop

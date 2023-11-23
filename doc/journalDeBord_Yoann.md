@@ -35,4 +35,11 @@ J'ai donc bien avancer aujourd'hui.
 ## 16/11/2023
 Aujourd'hui, j'ai fait un projet à partir de rien. J'ai fait le personnage, ses déplacements, et son saut. Lorsqu'il tombe dans le vide, il réapparait au spawn.<br>
 Ensuite, j'ai fait une balle que l'on peut tirer pour toucher un but de foot.<br>
-Néanmoins, cela ne marche pas encore et je vais régler cela la semaine prochaine
+Néanmoins, cela ne marche pas encore et je vais régler cela la semaine prochaine.
+
+## 23/11/2023
+Aujourd'hui, j'ai finit la balle qui maintenant active la physique du but lorsqu'il y a collision.<br>
+Ensuite, j'ai fait en sorte que la balle réaparaisse à sa position d'origine lorsque son z est inférieur à -500.<br>
+Le mur disparait lui à -500.<br>
+Après, j'ai fait le sprint du personnage et j'ai commencé un piège qui fait tomber 2 bûches sur le personnage.<br>
+je continurai la prochaine fois.

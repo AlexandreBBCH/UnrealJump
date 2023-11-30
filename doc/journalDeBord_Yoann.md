@@ -43,3 +43,10 @@ Ensuite, j'ai fait en sorte que la balle réaparaisse à sa position d'origine l
 Le mur disparait lui à -500.<br>
 Après, j'ai fait le sprint du personnage et j'ai commencé un piège qui fait tomber 2 bûches sur le personnage.<br>
 je continurai la prochaine fois.
+
+## 30/11/2023
+Aujourd'hui, j'ai finit le piège. Maintenant, lorsque le personnage touche une collision invisible, deux cylindre tombes sur lui et le tue s'il se fait toucher.<br>
+Sinon, les cylindres retournent à leurs places. J'ai remarqué que si je tire la balle sur la collision, les cylindres tombes.<br>
+Plus tard, nous pourrons faire en sorte que les cylindes tombent tellement vite que le joueur va forcement mourrir, même avec le sprint.<br>
+Nous pourrons alors tirer avec la balle qui détruira le piège.<br>
+La prochaine fois, je ferai tomber des rochers, ce qui sera utile avec la montagnes que fait Alexandre. 

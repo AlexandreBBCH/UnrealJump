@@ -50,3 +50,9 @@ Sinon, les cylindres retournent à leurs places. J'ai remarqué que si je tire l
 Plus tard, nous pourrons faire en sorte que les cylindes tombent tellement vite que le joueur va forcement mourrir, même avec le sprint.<br>
 Nous pourrons alors tirer avec la balle qui détruira le piège.<br>
 La prochaine fois, je ferai tomber des rochers, ce qui sera utile avec la montagnes que fait Alexandre. 
+
+## 07/12/2023
+Aujourd'hui, j'ai totalement finit le piège. Maintenant, lorsque les cylindres se touchent ils tombent. <br>
+Ensuite, j'ai fait un item qui augmente le jump pendant 4 secondes et une plateforme où lorsque l'on saute en étant dessus, le saut est également augmenter.<br>
+Ensuite, j'a commencer la chute de pierre. <br>
+Je finirai la semaine prochaine.

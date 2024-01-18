@@ -31,5 +31,6 @@ On est passé a Unreal 5 et je m'occupe de comprendre les mesh et le systeme de 
 
 
 ## 23.11.2023
-J'ai enfin trouvé comment faire pour mettre des collision de précision sur les objet 3d et commencé a faire une scene. 
-Semaine pro je finis la scene 1 de test et soit on mergera nos 2 projet soit je commencerai a coder certain composant
+J'ai enfin trouvé comment faire pour mettre des collision de précision sur les objet 3d et commencé a faire une scene. (Il faut aller dans l'element static mesh de l'élément en question , une fois dessus , dans l'angle a gauche ce trouve "collision" vous activé l'élement complexe, et tout en bas a droite appliquer le tout)
+Semaine pro je finis la scene 1 de test et soit on mergera nos 2 projet soit je commencerai a coder certain composant .
+

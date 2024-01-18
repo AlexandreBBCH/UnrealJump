@@ -61,4 +61,8 @@ Je finirai la semaine prochaine.<br>
 Aujourd'hui, j'ai totalement finis l'éboulement. Maintenant, lorsque le joueur touche un collision invisible, l'éboulement se déclanche et les pierres repoussent le personnage. <br>
 Ensuite, j'a fais une plateforme qui baisse lorsque le joueur est dessus et puis remonte jusqu'à sa position initiale lorsque le joueur quitte la plateforme.<br>
 Et puis, j'ai fais une plateforme qui se détruit soit lorsque le joueur est dessus, ou lorsque le joueur saute de la plateforme selon un booléean.
-La prochaine fois, je ferai un ennemi immobile qui nous tire dessus en suivant ce tuto : https://www.youtube.com/watch?v=RKHM862PWKU.   
+La prochaine fois, je ferai un ennemi immobile qui nous tire dessus en suivant ce tuto : https://www.youtube.com/watch?v=RKHM862PWKU.
+
+## 18/01/2023
+Aujourd'hui, j'ai fais des animations : un double saut, une roulade et s'accroupir. J'ai suivit des tutos et je n'ai eu aucun problème.<br>
+Nous avons également commencer à rassembler les projets.La prochaine fois, je vais essayer d'ajouter sa map dans mon projet.<br>

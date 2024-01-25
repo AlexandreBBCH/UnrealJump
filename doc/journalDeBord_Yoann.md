@@ -66,3 +66,8 @@ La prochaine fois, je ferai un ennemi immobile qui nous tire dessus en suivant c
 ## 18/01/2023
 Aujourd'hui, j'ai fais des animations : un double saut, une roulade et s'accroupir. J'ai suivit des tutos et je n'ai eu aucun problème.<br>
 Nous avons également commencer à rassembler les projets.La prochaine fois, je vais essayer d'ajouter sa map dans mon projet.<br>
+
+## 25/01/2023
+Aujourd'hui, avons essayer de rassembler les projets : nous avons essayer de push le projet d'alexandre, sans succès à cause du nombre de fichier et de leurs tailles.<br>
+Nous nous avons essayer de copier le niveau et la map dans mon projet, sans succès.<br>
+La semaine prochaine, alexandre va utiliser mon travail et l'ajouter sur son projet, et je vais développer ce dont il aurait besoin.

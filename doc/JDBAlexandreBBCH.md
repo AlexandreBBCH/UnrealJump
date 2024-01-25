@@ -36,3 +36,7 @@ Semaine pro je finis la scene 1 de test et soit on mergera nos 2 projet soit je 
 
 ##18.01.2024
 Reprise des projet avec la fusion de quelque élément de gameplay codé par Yoann dans ma scène.On rencontre quelque bug d'importation encore inresolue. Mais deja une des zone de gameplay fonctionne a merveille.
+
+
+##25.01.2024
+Nous avons tenter de fusionnez les projets, malheureusment en vains sans doute par manque d'espace sur nos disque cependant nous avons eu le temps en parallele de faire l'affiche pour la semaine prochaine. Donc la prochaine fois nous allons continuer l'avancement de la map et la fusion manuelle n'ayant pas reussis a mettre le tout sur git.

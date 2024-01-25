@@ -28,3 +28,11 @@ Apprentissage de l'importation d'asset et reglage temporaire du jump, prochaine 
 
 ## 16.11.2023
 On est passé a Unreal 5 et je m'occupe de comprendre les mesh et le systeme de collision précis ainsi que pour la semaine prochaine creer un premier level. Note : On compte faire un jeu multi online coop
+
+
+## 23.11.2023
+J'ai enfin trouvé comment faire pour mettre des collision de précision sur les objet 3d et commencé a faire une scene. (Il faut aller dans l'element static mesh de l'élément en question , une fois dessus , dans l'angle a gauche ce trouve "collision" vous activé l'élement complexe, et tout en bas a droite appliquer le tout)
+Semaine pro je finis la scene 1 de test et soit on mergera nos 2 projet soit je commencerai a coder certain composant .
+
+##18.01.2024
+Reprise des projet avec la fusion de quelque élément de gameplay codé par Yoann dans ma scène.On rencontre quelque bug d'importation encore inresolue. Mais deja une des zone de gameplay fonctionne a merveille.

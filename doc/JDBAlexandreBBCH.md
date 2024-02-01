@@ -40,3 +40,6 @@ Reprise des projet avec la fusion de quelque élément de gameplay codé par Yoa
 
 ##25.01.2024
 Nous avons tenter de fusionnez les projets, malheureusment en vains sans doute par manque d'espace sur nos disque cependant nous avons eu le temps en parallele de faire l'affiche pour la semaine prochaine. Donc la prochaine fois nous allons continuer l'avancement de la map et la fusion manuelle n'ayant pas reussis a mettre le tout sur git.
+
+##01.02.2024
+Aujourd'huis nous avons commencé a ajouté divers éléments de gameplay dans la map, il nous faudra encore mettre les enemies, les checkpoint et divers autres onctionnalité. Nous avons aussi rendue l'affiche trouvable ans notre git 

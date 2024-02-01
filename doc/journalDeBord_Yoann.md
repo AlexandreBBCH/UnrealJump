@@ -71,3 +71,10 @@ Nous avons également commencer à rassembler les projets.La prochaine fois, je 
 Aujourd'hui, avons essayer de rassembler les projets : nous avons essayer de push le projet d'alexandre, sans succès à cause du nombre de fichier et de leurs tailles.<br>
 Nous nous avons essayer de copier le niveau et la map dans mon projet, sans succès.<br>
 La semaine prochaine, alexandre va utiliser mon travail et l'ajouter sur son projet, et je vais développer ce dont il aurait besoin.
+
+## 01/02/2023
+Aujourd'hui, Alexandre a continué à créer le jeu et a ajouter des éléments que j'ai précédement créé.<br>
+Pour ma part, j'ai corrigé les bugs créer par l'ajout de mes fonctionnalités dans son projet.<br>
+J'ai également ajouter des messages qui apparaissent sur l'écran lorsque le joueur doit faire une action précise (ex: Appuie sur E).<br>
+J'ai aussi commencer la documentation technique et Alexandre a finit le poster.<br>
+La semaine prochaine, nous allons continuer la documentation et d'améliorer le niveau créer par Alexandre.

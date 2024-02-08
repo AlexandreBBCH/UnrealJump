@@ -43,3 +43,6 @@ Nous avons tenter de fusionnez les projets, malheureusment en vains sans doute p
 
 ##01.02.2024
 Aujourd'huis nous avons commencé a ajouté divers éléments de gameplay dans la map, il nous faudra encore mettre les enemies, les checkpoint et divers autres onctionnalité. Nous avons aussi rendue l'affiche trouvable ans notre git 
+
+##08.02.2023
+On a ajouter les checkpoint, le viseur de checkpoint, ajouter des tireur, rajouter des eboulement et beta testé, semaine prochaine avant derniere jour de dev, on va devoir mettre une fin et fignollé les details la semaine d'après les vacances.

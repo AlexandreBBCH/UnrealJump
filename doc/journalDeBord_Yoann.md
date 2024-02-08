@@ -63,18 +63,25 @@ Ensuite, j'a fais une plateforme qui baisse lorsque le joueur est dessus et puis
 Et puis, j'ai fais une plateforme qui se détruit soit lorsque le joueur est dessus, ou lorsque le joueur saute de la plateforme selon un booléean.
 La prochaine fois, je ferai un ennemi immobile qui nous tire dessus en suivant ce tuto : https://www.youtube.com/watch?v=RKHM862PWKU.
 
-## 18/01/2023
+## 18/01/2024
 Aujourd'hui, j'ai fais des animations : un double saut, une roulade et s'accroupir. J'ai suivit des tutos et je n'ai eu aucun problème.<br>
 Nous avons également commencer à rassembler les projets.La prochaine fois, je vais essayer d'ajouter sa map dans mon projet.<br>
 
-## 25/01/2023
+## 25/01/2024
 Aujourd'hui, avons essayer de rassembler les projets : nous avons essayer de push le projet d'alexandre, sans succès à cause du nombre de fichier et de leurs tailles.<br>
 Nous nous avons essayer de copier le niveau et la map dans mon projet, sans succès.<br>
 La semaine prochaine, alexandre va utiliser mon travail et l'ajouter sur son projet, et je vais développer ce dont il aurait besoin.
 
-## 01/02/2023
+## 01/02/2024
 Aujourd'hui, Alexandre a continué à créer le jeu et a ajouter des éléments que j'ai précédement créé.<br>
 Pour ma part, j'ai corrigé les bugs créer par l'ajout de mes fonctionnalités dans son projet.<br>
 J'ai également ajouter des messages qui apparaissent sur l'écran lorsque le joueur doit faire une action précise (ex: Appuie sur E).<br>
 J'ai aussi commencer la documentation technique et Alexandre a finit le poster.<br>
 La semaine prochaine, nous allons continuer la documentation et d'améliorer le niveau créer par Alexandre.
+
+## 08/02/2024
+Aujourd'hui, j'ai aidé Alexandre à ajouter des fonctionnalités que j'ai déjà développé dans son projet. Le checkpoint en fait partie.<br>
+Nous avons passé du temps à essayer de comprendre pourquoi le checkpoint nous faisais réapparaitre au 0 0 0. En fait, le checkpoint nous fais réapparaitre un peu dans une texture ce qui provoque le bug.<br>
+J'ai donc fais en sorte que le checkpoint nous fasse apparaitre un peu au dessus du checkpoint.<br>
+J'ai également ajouté une musique dans le jeu et une flèche pour montrer la direction du prochain checkpoint<br>.
+La semaine prochaine nous allons nous concentrer sur la documentation intermédiaire à rendre et ajouter de nouveaux éléments au jeu.

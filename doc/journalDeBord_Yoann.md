@@ -83,5 +83,9 @@ La semaine prochaine, nous allons continuer la documentation et d'améliorer le 
 Aujourd'hui, j'ai aidé Alexandre à ajouter des fonctionnalités que j'ai déjà développé dans son projet. Le checkpoint en fait partie.<br>
 Nous avons passé du temps à essayer de comprendre pourquoi le checkpoint nous faisais réapparaitre au 0 0 0. En fait, le checkpoint nous fais réapparaitre un peu dans une texture ce qui provoque le bug.<br>
 J'ai donc fais en sorte que le checkpoint nous fasse apparaitre un peu au dessus du checkpoint.<br>
-J'ai également ajouté une musique dans le jeu et une flèche pour montrer la direction du prochain checkpoint<br>.
+J'ai également ajouté une musique dans le jeu et une flèche pour montrer la direction du prochain checkpoint.<br>
 La semaine prochaine nous allons nous concentrer sur la documentation intermédiaire à rendre et ajouter de nouveaux éléments au jeu.
+
+## 15/02/2024
+Aujourd'hui, nous avons continué le projet et finit la documentation temporaire. Nous avons finit la documentation technique et la documentation utilisateur.<br>
+Dans le projet, nous avons ralongé la durée du niveau et ajouter quelques fonctionnalité au joueur : un sprint, une roulade, et la possibilité de se baisser.<br>

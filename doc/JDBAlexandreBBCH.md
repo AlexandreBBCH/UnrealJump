@@ -46,3 +46,6 @@ Aujourd'huis nous avons commencé a ajouté divers éléments de gameplay dans l
 
 ##08.02.2023
 On a ajouter les checkpoint, le viseur de checkpoint, ajouter des tireur, rajouter des eboulement et beta testé, semaine prochaine avant derniere jour de dev, on va devoir mettre une fin et fignollé les details la semaine d'après les vacances.
+
+##15.02.2023
+Tentative de build un exe en vaint , aucune piste , a la limite des import raté. Sinon on a bien avancé la documentation et pratiquement finis notre jeu pour la présentation.

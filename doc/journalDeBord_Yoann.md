@@ -89,3 +89,8 @@ La semaine prochaine nous allons nous concentrer sur la documentation intermédi
 ## 15/02/2024
 Aujourd'hui, nous avons continué le projet et finit la documentation temporaire. Nous avons finit la documentation technique et la documentation utilisateur.<br>
 Dans le projet, nous avons ralongé la durée du niveau et ajouter quelques fonctionnalité au joueur : un sprint, une roulade, et la possibilité de se baisser.<br>
+
+## 29/02/2024
+Aujourd'hui, nous avons continué le projet. Alexandre a continué la création du niveau.<br>
+Moi, j'ai fais un écran de fin lorsque tous les checkpoints ont été pris et un timer afficher dans le jeu.<br>
+J'ai aussi régler un bug de l'item de boost de saut.<br>

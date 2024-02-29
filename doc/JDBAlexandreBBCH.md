@@ -49,3 +49,6 @@ On a ajouter les checkpoint, le viseur de checkpoint, ajouter des tireur, rajout
 
 ##15.02.2023
 Tentative de build un exe en vaint , aucune piste , a la limite des import raté. Sinon on a bien avancé la documentation et pratiquement finis notre jeu pour la présentation.
+
+##29.02.2023
+On y est presque ! Ajout de la scene final et ajustement de passage infranchissable, semaine pro on s'attaque au build final
